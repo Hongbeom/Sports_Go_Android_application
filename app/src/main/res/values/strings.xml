@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Sports Go</string>
+    <string name="eval_warning">You should set the score first</string>
+    <string name="deletion_notification">What should locate this?(test)</string>
+    <string-array name="sports">
+        <item>Soccer</item>
+        <item>Baseball</item>
+        <item>Basketball</item>
+        <item>Balling</item>
+        <item>Pingpong</item>
+        <item>Badminton</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <string-array name="spinner_city">
+        <item>Seoul</item>
+        <item>Incheon</item>
+    </string-array>
+
+    <string-array name="spinner_city_seoul">
+        <item>Gangnam-gu</item>
+        <item>Gangdong-gu</item>
+        <item>Gangbuk-gu</item>
+        <item>Gangseo-gu</item>
+        <item>Gwanak-gu</item>
+        <item>Gwangjin-gu</item>
+        <item>Guro-gu</item>
+        <item>Geumcheon-gu</item>
+        <item>Nowon-gu</item>
+        <item>Dobong-gu</item>
+        <item>Dongdaemun-gu</item>
+        <item>Dongjak-gu</item>
+        <item>Mapo-gu</item>
+        <item>Seodaemun-gu</item>
+        <item>Seocho-gu</item>
+        <item>Seongdong-gu</item>
+        <item>Seongbuk-gu</item>
+        <item>Songpa-gu</item>
+        <item>Yangcheon-gu</item>
+        <item>Yeongdeungpo-gu</item>
+        <item>Yongsan-gu</item>
+        <item>Eunpyeong-gu</item>
+        <item>Jung-gu</item>
+        <item>Jungnang-gu</item>
+
+    </string-array>
+    <string-array name="spinner_city_incheon">
+        <item>Gyeyang-gu</item>
+        <item>Nam-gu</item>
+        <item>Namdong-gu</item>
+        <item>Dong-gu</item>
+        <item>Bupyeong-gu</item>
+        <item>Seo-gu</item>
+        <item>Yeonsu-gu</item>
+        <item>Jung-gu</item>
+        <item>Ganghwa-gu</item>
+        <item>Ongjin-gu</item>
+    </string-array>
+    <string name="title_activity_sample">Sample</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

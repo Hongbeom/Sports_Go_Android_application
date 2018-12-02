@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "287539608068",
+    "firebase_url": "https://sportgo-2b545.firebaseio.com",
+    "project_id": "sportgo-2b545",
+    "storage_bucket": "sportgo-2b545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287539608068:android:340e78eeb54b230f",
+        "android_client_info": {
+          "package_name": "com.example.mcbback.sportgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287539608068-og05rgpb9h7hc93a3palsaod0rq61q67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mcbback.sportgo",
+            "certificate_hash": "161d7eb3b32298376c3127e24906de38a3839b6a"
+          }
+        },
+        {
+          "client_id": "287539608068-p7te2g597beskr6lvvbrqv1fbabprboc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL1tnRfnd5zeBebpr74Ius6ahimqY8PmA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287539608068-p7te2g597beskr6lvvbrqv1fbabprboc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
